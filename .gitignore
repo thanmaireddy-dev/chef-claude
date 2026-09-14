@@ -3,22 +3,7 @@ node_modules/
 jspm_packages/
 .pnpm-store/
 
-# Production build outputs
-dist/
-dist-ssr/
-build/
-out/
 
-# Vite specific cache
-.vite/
-
-# Environment variables & secrets (CRITICAL for security)
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-*.local
 
 
 
